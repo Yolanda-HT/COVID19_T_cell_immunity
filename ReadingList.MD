@@ -85,6 +85,8 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 28. **2020_07_ML_approaches_COVID19_survival_discharge_time_prediction** <br>
 [Machine-Learning Approaches in COVID-19 Survival Analysis and Discharge-Time Likelihood Prediction Using Clinical Data](https://www.cell.com/patterns/fulltext/S2666-3899(20)30094-5)
 
+29. **2020_06_Single_cell_sequencing_PB_mononuclear_cell_distinct_immune_response_COVID19** <br>
+[Single-cell sequencing of peripheral blood mononuclear cells reveals distinct immune response landscapes of COVID-19 and influenza patients](https://linkinghub.elsevier.com/retrieve/pii/S1074761320303162)
 
 
 
