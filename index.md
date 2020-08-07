@@ -1,5 +1,3 @@
-# COVID19_T_cell_immunity
-Publications regarding T cell immunity / adaptive immune responses in COVID19
-
+# COVID19: T cell immunity
 
 [Articles](ReadingList.MD)
