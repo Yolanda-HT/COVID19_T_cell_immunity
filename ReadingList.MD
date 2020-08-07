@@ -49,43 +49,43 @@
 [Imbalanced Host Response to SARS-CoV-2 Drives
 Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S009286742030489X)
 
-17. **2020_05_REVIEW_Dysregulation_type_I_inteferon_response_COVID19** <br>
+17. **2020_05_REVIEW_Gack_Dysregulation_type_I_inteferon_response_COVID19** <br>
 [Dysregulation of type I interferon responses in COVID-19](https://www.nature.com/articles/s41577-020-0346-x)
 
-18. **2020_05_Imbalanced_host_response_SARSCOV2** <br>
-[Imbalanced Host Response to SARS-CoV-2 Drives Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S009286742030489X)
+18. **2020_07_REVIEW_Sette_Crotty_Pre-existing_immunity_SARS2** <br>
+[Pre-existing immunity to SARS-CoV-2: the knowns and unknowns](https://www.nature.com/articles/s41577-020-0389-z)
 
-19. **2020_07_Humoral_circulating_Tfh_recovered_COVID19** <br>
+19. **2020_07_Wheatley_Humoral_circulating_Tfh_recovered_COVID19** <br>
 [Humoral and circulating follicular helper T cell responses in recovered patients with COVID-19](https://www.nature.com/articles/s41591-020-0995-0)
 
-20. **2020_07_SARS2_reactive_T_cell_healthy_donor_patient** <br>
+20. **2020_07_Thiel_SARS2_reactive_T_cell_healthy_donor_patient** <br>
 [SARS-CoV-2-reactive T cells in healthy donors and patients with COVID-19](https://www.nature.com/articles/s41586-020-2598-9)
 
-21. **2020_07_SARS2_specific_T_cell_immunity_COVID19_SARS_uninfected** <br>
+21. **2020_07_Bertoletti_SARS2_specific_T_cell_immunity_COVID19_SARS_uninfected** <br>
 [SARS-CoV-2-specific T cell immunity in cases of COVID-19 and SARS, and uninfected controls](https://www.nature.com/articles/s41586-020-2550-z)
 
-22. **2020_07_Viral_host_factors_clinical_outcome_COVID19** <br>
+22. **2020_07_Lu_Viral_host_factors_clinical_outcome_COVID19** <br>
 [Viral and host factors related to the clinical outcome of COVID-19](https://www.nature.com/articles/s41586-020-2355-0)
 
-23. **2020_04_How_COVID19_kill_uncertainty_treatments** <br>
+23. **2020_04_NEWS_How_COVID19_kill_uncertainty_treatments** <br>
 [How does COVID-19 kill? Uncertainty is hampering doctors’ ability to choose treatments](https://www.nature.com/articles/d41586-020-01056-7)
 
-24. **2020_08_Acute_SARS2_infection_impairs_dendritic_cell_T_cell_response** <br>
+24. **2020_08_Chen_Acute_SARS2_infection_impairs_dendritic_cell_T_cell_response** <br>
 [Acute SARS-CoV-2 infection impairs dendritic cell and T cell responses](https://linkinghub.elsevier.com/retrieve/pii/S1074761320303332)
 
-25. **2020_08_Severe_COVID19_dysregulated_myeloid_cell_compartment** <br>
-[Severe COVID-19 is marked by a dysregulated myeloid cell compartment](https://www.cell.com/cell/fulltext/S0092-8674(20)30992-2)
+25. **2020_08_Sander_Severe_COVID19_dysregulated_myeloid_cell_compartment** <br>
+[Severe COVID-19 is marked by a dysregulated myeloid cell compartment](https://doi.org/10.1016/j.cell.2020.08.001)
 
-26. **2020_08_Learning_model_evaluate_hospitalization_priority_COVID19** <br>
-[A Learning-based Model to Evaluate Hospitalization Priority in COVID-19 Pandemics](https://www.cell.com/patterns/fulltext/S2666-3899(20)30120-3)
+26. **2020_08_Ma_Learning_model_evaluate_hospitalization_priority_COVID19** <br>
+[A Learning-based Model to Evaluate Hospitalization Priority in COVID-19 Pandemics](https://doi.org/10.1016/j.patter.2020.100092)
 
-27. **2020_07_Distinct_early_serological_signatures_SARS2_survival** <br>
+27. **2020_07_Alter_Distinct_early_serological_signatures_SARS2_survival** <br>
 [Distinct early serological signatures track with SARS-CoV-2 survival](https://linkinghub.elsevier.com/retrieve/pii/S1074761320303277)
 
-28. **2020_07_ML_approaches_COVID19_survival_discharge_time_prediction** <br>
-[Machine-Learning Approaches in COVID-19 Survival Analysis and Discharge-Time Likelihood Prediction Using Clinical Data](https://www.cell.com/patterns/fulltext/S2666-3899(20)30094-5)
+28. **2020_07_Nemati_ML_approaches_COVID19_survival_discharge_time_prediction** <br>
+[Machine-Learning Approaches in COVID-19 Survival Analysis and Discharge-Time Likelihood Prediction Using Clinical Data](https://doi.org/10.1016/j.patter.2020.100074)
 
-29. **2020_06_Single_cell_sequencing_PB_mononuclear_cell_distinct_immune_response_COVID19** <br>
+29. **2020_06_Liu_Single_cell_sequencing_PB_mononuclear_cell_distinct_immune_response_COVID19** <br>
 [Single-cell sequencing of peripheral blood mononuclear cells reveals distinct immune response landscapes of COVID-19 and influenza patients](https://linkinghub.elsevier.com/retrieve/pii/S1074761320303162)
 
 
