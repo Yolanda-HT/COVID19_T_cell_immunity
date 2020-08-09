@@ -94,4 +94,7 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 31. **2020_08_Weiskopf_Sette_Selective_cross_reactive_SARS2_T_cell_epitopes** <br>
 [Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
 
+32. **2020_07_Wherry_Deep_immune_profiling_COVID19_distinct_immunotypes** <br>
+[Deep immune profiling of COVID-19 patients reveals distinct immunotypes with therapeutic implications](https://science.sciencemag.org/content/early/2020/07/15/science.abc8511)
+
 
