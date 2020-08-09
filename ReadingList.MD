@@ -88,7 +88,8 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 29. **2020_06_Liu_Single_cell_sequencing_PB_mononuclear_cell_distinct_immune_response_COVID19** <br>
 [Single-cell sequencing of peripheral blood mononuclear cells reveals distinct immune response landscapes of COVID-19 and influenza patients](https://linkinghub.elsevier.com/retrieve/pii/S1074761320303162)
 
-
+30. **2020_07_He_DL_early_triage_critically_ill_COVID19_patients** <br>
+[Early triage of critically ill COVID-19 patients using deep learning](https://www.nature.com/articles/s41467-020-17280-8)
 
 
 
