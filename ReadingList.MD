@@ -99,3 +99,9 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 
 33. **2020_08_Terrier_impaired_type_I_interferon_inflammatory_severe_COVID19** <br>
 [Impaired type I interferon activity and inflammatory responses in severe COVID-19 patients](https://science.sciencemag.org/content/369/6504/718)
+
+34. **2020_08_Wack_Type_1_3_interferons_disrupt_lung_epithelial_repair_viral_infection** <br>
+[Type I and III interferons disrupt lung epithelial repair during recovery from viral infection](https://science.sciencemag.org/content/369/6504/712)
+
+35. **2020_08_Zanoni_Type_3_interferon_disrupt_lung_epithelial_barrier** <br>
+[Type III interferons disrupt the lung epithelial barrier upon viral recognition](https://science.sciencemag.org/content/369/6504/706)
