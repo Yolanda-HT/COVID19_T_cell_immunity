@@ -105,3 +105,6 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 
 35. **2020_08_Zanoni_Type_3_interferon_disrupt_lung_epithelial_barrier** <br>
 [Type III interferons disrupt the lung epithelial barrier upon viral recognition](https://science.sciencemag.org/content/369/6504/706)
+
+36. **2020_08_Zhao_COVID19_mouse_model** <br>
+[Generation of a Broadly Useful Model for COVID-19 Pathogenesis, Vaccination, and Treatment](https://www.sciencedirect.com/science/article/pii/S0092867420307418)
