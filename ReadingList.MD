@@ -91,5 +91,7 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 30. **2020_07_He_DL_early_triage_critically_ill_COVID19_patients** <br>
 [Early triage of critically ill COVID-19 patients using deep learning](https://www.nature.com/articles/s41467-020-17280-8)
 
+31. **2020_08_Weiskopf_Sette_Selective_cross_reactive_SARS2_T_cell_epitopes** <br>
+[Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
 
 
