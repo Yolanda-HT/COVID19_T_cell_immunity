@@ -97,4 +97,5 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 32. **2020_07_Wherry_Deep_immune_profiling_COVID19_distinct_immunotypes** <br>
 [Deep immune profiling of COVID-19 patients reveals distinct immunotypes with therapeutic implications](https://science.sciencemag.org/content/early/2020/07/15/science.abc8511)
 
-
+33. **2020_08_Terrier_impaired_type_I_interferon_inflammatory_severe_COVID19** <br>
+[Impaired type I interferon activity and inflammatory responses in severe COVID-19 patients](https://science.sciencemag.org/content/369/6504/718)
