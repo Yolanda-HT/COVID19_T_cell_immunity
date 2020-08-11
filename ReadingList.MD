@@ -1,7 +1,7 @@
 # Recent Publications on SARS2
 
-1. **2020_05_Wherry_ImmuneProfiling_heterogeneity_immunotypes** <br>
-[Deep immune profiling of COVID-19 patients reveals patient heterogeneity and distinct immunotypes with implications for therapeutic interventions](https://www.biorxiv.org/content/10.1101/2020.05.20.106401v1)
+1. **2020_04_FEATURE_Matacic_A_rampage_through_the_body** <br>
+[A rampage through the body](https://science.sciencemag.org/content/368/6489/356)
 
 2. **2020_05_Betts_Immunologic_perturbations_severe_SARS2_infection** <br>
 [Immunologic perturbations in severe COVID-19/SARS-CoV-2 infection](https://www.biorxiv.org/content/10.1101/2020.05.18.101717v1)
@@ -108,3 +108,24 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 
 36. **2020_08_Zhao_COVID19_mouse_model** <br>
 [Generation of a Broadly Useful Model for COVID-19 Pathogenesis, Vaccination, and Treatment](https://www.sciencedirect.com/science/article/pii/S0092867420307418)
+
+37. **2020_07_REVIEW_Zhang_COVID19_immunopathogenesis_immunotherapeutics** <br>
+[COVID-19: immunopathogenesis and Immunotherapeutics](https://www.nature.com/articles/s41392-020-00243-2)
+
+38. **2020_07_REVIEW_Mansouri_Immunological_features_COVID19** <br>
+[Immunologic Features in Coronavirus Disease 2019: Functional Exhaustion of T Cells and Cytokine Storm](https://link.springer.com/article/10.1007/s10875-020-00824-4)
+
+39. **2020_07_REVIEW_Bridgewood_pulmonary_intravascular_coagulopathy_in_COVID19_penumonia** <br>
+[Immune mechanisms of pulmonary intravascular coagulopathy in COVID-19 pneumonia](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30121-1/fulltext)
+
+40. **2020_07_Zhang_Immunological_inflammatory_profiles_mild_severe_cases_COVID19** <br>
+[Immunological and inflammatory profiles in mild and severe cases of COVID-19](https://www.nature.com/articles/s41467-020-17240-2)
+
+41. **2020_04_Eils_ACE2_TMPRSS2_expressed_in_bronchial_transient_secretory_cells** <br>
+[SARS ‐CoV‐2 receptor ACE 2 and TMPRSS 2 are primarily expressed in bronchial transient secretory cells](https://www.embopress.org/doi/full/10.15252/embj.20105114)
+
+42. **2020_04_Wang_ACE2_expression_in_wide_variety_of_human_tissues** <br>
+[Expression of the SARS-CoV-2 cell receptor gene ACE2 in a wide variety of human tissues](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00662-x)
+
+43. **2020_05_Zhang_Interferon_stimulated_ACE2** <br>
+[SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues](https://www.sciencedirect.com/science/article/pii/S0092867420305006)
