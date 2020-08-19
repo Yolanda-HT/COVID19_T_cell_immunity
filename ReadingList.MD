@@ -136,3 +136,6 @@ Development of COVID-19](https://www.sciencedirect.com/science/article/pii/S0092
 
 [45] **2020_06_Vijayanand_Single_cell_SARS2_reactive_CD4** <br>
 [Single-cell transcriptomic analysis of SARS-CoV-2 reactive CD4+ T cells](https://www.biorxiv.org/content/10.1101/2020.06.12.148916v1)
+
+[46] **2020_08_Pillai_Loss_of_Bcl6_Tfh_germinal_centers_COVID19** <br>
+[Loss of Bcl-6-expressing T follicular helper cells and germinal centers in COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31067-9)
